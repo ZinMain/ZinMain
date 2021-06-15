@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 Hello there hoomans 👋
 
-<!--
-**ZinMain/ZinMain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a [Discord](https://discord.com) stuff enthusiasts
 
-Here are some ideas to get you started:
+##### 📅 NOW 📅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Searching artist for OC commission
+- 🏫 School EXAM until Friday
+
+##### 🎯 PLANS 🎯
+
+- 🔐 Create my own password manager site
+- 💻 Update bots from react button to buttons
+- 📚 Learn [Discord.JS voice libary](https://github.com/discordjs/voice)
+
+##### Social Media
+
+- Discord: ZIN#0310
+- [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/zinmaybe)
