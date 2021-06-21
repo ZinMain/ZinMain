@@ -4,8 +4,8 @@
 
 ##### 📅 NOW 📅
 
-- 🔍 Searching artist for OC commission
-- 🏫 School EXAM until Friday
+- 🎨 Waiting for OC Commission done
+- 💻 Waiting for laptop lo be fixed
 
 ##### 🎯 PLANS 🎯
 
