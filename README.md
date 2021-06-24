@@ -2,7 +2,7 @@
 
 #### I'm a [Discord](https://discord.com) stuff enthusiasts
 
-##### 📅 NOW 📅
+##### 📅 WIP 📅
 
 - 🎨 Waiting for OC Commission done
 - 🔐 Create my own password manager site
