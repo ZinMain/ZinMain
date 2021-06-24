@@ -5,11 +5,11 @@
 ##### 📅 NOW 📅
 
 - 🎨 Waiting for OC Commission done
-- 💻 Waiting for laptop lo be fixed
+- 🔐 Create my own password manager site
+- 💻 Learn Live2D Cubism
 
 ##### 🎯 PLANS 🎯
 
-- 🔐 Create my own password manager site
 - 💻 Update bots from react button to buttons
 - 📚 Learn [Discord.JS voice libary](https://github.com/discordjs/voice)
 
