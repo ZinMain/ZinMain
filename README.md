@@ -4,8 +4,6 @@
 
 ##### 📅 WIP 📅
 
-- 🎨 Waiting for OC Commission done
-- 🔐 Create my own password manager site
 - 💻 Learn Live2D Cubism
 
 ##### 🎯 PLANS 🎯
