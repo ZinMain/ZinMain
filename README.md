@@ -14,4 +14,3 @@
 ##### Social Media
 
 - Discord: ZIN#0310
-- [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/zinmaybe)
