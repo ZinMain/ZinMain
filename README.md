@@ -1,16 +1,15 @@
 ### 👋 Hello there hoomans 👋
 
-#### I'm a [Discord](https://discord.com) stuff enthusiasts
+#### I'm a PC shits enthusiasts
 
 ##### 📅 WIP 📅
 
-- 💻 Learn Live2D Cubism
+- Currently have no motivation
 
 ##### 🎯 PLANS 🎯
 
-- 💻 Update bots from react button to buttons
-- 📚 Learn [Discord.JS voice libary](https://github.com/discordjs/voice)
+- 💻 Learn ReactNative
 
 ##### Social Media
 
-- Discord: ZIN#0310
+- Discord: Its_Zin
